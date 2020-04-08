@@ -1,0 +1,18 @@
+
+
+{
+    "env": "development",
+    "server": {
+      "baseURL": "http://localhost:45402",
+      "port": 45402
+    },
+    "database": {
+      "mongo": {
+        "name": "chat",
+        "host": "cluster0-hjncy.mongodb.net",
+        "port": 27017,
+        "username": "mehersrija",
+        "password": "srija123"
+      }
+    }
+}
